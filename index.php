@@ -1,5 +1,6 @@
 <?php
 	# Controllers
+	include('c/c.controllers.php');
 	
 	# Models
 	include('m/m.models.php');
