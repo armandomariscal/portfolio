@@ -11,3 +11,5 @@ use DBI;
 use HTML::TreeBuilder;
 
 my $DEBUG = 1;
+
+use c/c.mail.01.pl
